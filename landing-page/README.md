@@ -6,17 +6,6 @@
 
 Uma **landing page moderna e responsiva** desenvolvida com **HTML, CSS e JavaScript**.
 Este projeto foi criado para praticar conceitos de **desenvolvimento front-end, estruturação de layout e design responsivo**.
-
----
-
-## 📸 Preview
-
-Adicione uma imagem do projeto aqui.
-
-```
-![preview](./assets/preview.png)
-```
-
 ---
 
 ## ✨ Funcionalidades
@@ -141,3 +130,4 @@ Este projeto está sob a licença **MIT**.
 Desenvolvido por **Samuel Valtair Marães**
 
 GitHub: https://github.com/Samuel-V-Maraes
+
